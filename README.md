@@ -74,3 +74,4 @@ smaller changes:
 removals:
 -reset question removed. I simply had to, it wasn't working for everyone. Expect to see it in a future update! (hopefully)
 
+Thanks for using!
