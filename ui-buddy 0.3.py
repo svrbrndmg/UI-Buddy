@@ -17,7 +17,7 @@ os.chdir(ubdir)
 splash = ["all your RAM are belong to us", "ya little freak", "ready to make a mediocre game menu at any time", "only 14.99, in stores now", "I love being free and open source! OS 4evar", "insert witty line here", "the worst-programmed software this side of the... galaxy", "stop hitting yourself"]
 # pure randomness. Not that hard to understand tbh.
 
-print("Welcome to UI-Buddy v0.2, " + random.choice(splash) + "!")
+print("Welcome to UI-Buddy v0.3, " + random.choice(splash) + "!")
 print("What should the window name be? ")
 wndwnm = input()
 root= tk.Tk()
