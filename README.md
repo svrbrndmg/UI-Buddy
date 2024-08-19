@@ -4,10 +4,10 @@ Very simple as of now, and only interactable through text. Major features are be
 
 READ ME, PLEASE.:
 
-/-/_/-/_/-/_/-=-== UI-BUDDY, V0.3 ==-=-/_/-/_/-/_/-/_/-/
+/-/_/-/_/-/_/-=-== UI-BUDDY, V0.4 ==-=-/_/-/_/-/_/-/_/-/
 ~~~~~~~~~~~~~~~~~~-==============-~~~~~~~~~~~~~~~~~~~~
 
-You have just downloaded UI-Buddy v0.3, the newest (and first) major coding project from me.
+You have just downloaded UI-Buddy v0.4, the newest (and first) major coding project from me.
 The program is not as advanced as I want it to be (yet) and god knows, I'm a bad programmer,
 but I hope you'll enjoy using UI-Buddy! Here's the tech support FAQ:
 
@@ -73,5 +73,15 @@ smaller changes:
 
 removals:
 -reset question removed. I simply had to, it wasn't working for everyone. Expect to see it in a future update! (hopefully)
+
+0.4:
+THE CODEBASE UPDATE!
+-added toplevel code so now the window appears on top of everything
+-optimized ui-buddy down from 21kb to 8
+-added 2 new possible splashes
+
+removals
+-removed comments, they are now available as a .md in the main repo.
+
 
 Thanks for using!
