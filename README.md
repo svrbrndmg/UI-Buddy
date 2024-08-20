@@ -4,17 +4,16 @@ Very simple as of now, and only interactable through text. Major features are be
 
 READ ME, PLEASE.:
 
-/-/_/-/_/-/_/-=-== UI-BUDDY, V0.4 ==-=-/_/-/_/-/_/-/_/-/
+/-/_/-/_/-/_/-=-== UI-BUDDY, V0.5 ==-=-/_/-/_/-/_/-/_/-/
 ~~~~~~~~~~~~~~~~~~-==============-~~~~~~~~~~~~~~~~~~~~
 
-You have just downloaded UI-Buddy v0.4, the newest (and first) major coding project from me.
+You have just downloaded UI-Buddy v0.5, the newest (and first) major coding project from me.
 The program is not as advanced as I want it to be (yet) and god knows, I'm a bad programmer,
 but I hope you'll enjoy using UI-Buddy! Here's the tech support FAQ:
 
-Q: Why can't I set my own background/icon, Python keeps saying it's not defined?
-A: Python (at least the interpreter) hates spaces, dashes and some other stuff because of Unicode (of course),
-so as of right now, I would say put your background/icon in a directory with none of these symbols in the name,
-and rename the file itself too. Sorry! I'll try to do something about it in 0.3 but no promises! :(
+Q: Why isn't the button showing up, or its window?
+A: Python hides the window sometimes for some reason, I've tried all that I can,
+but for now, just look behind your interpreter and you should see it.
 Q: The custom background I chose doesn't fit the whole window. What do?
 A: If you want the image to cover the window, make the window size the same as the image size.
 Like, for example, a 640x480 image needs a 640x480 window.
@@ -83,5 +82,17 @@ THE CODEBASE UPDATE!
 removals
 -removed comments, they are now available as a .md in the main repo.
 
+0.5:
+THE PROCRASTINATOR'S UPDATE!
+-buttons can now open files on your computer! 
+-final button slot added (I feel like 6 is enough, right guys?) 
+
+smaller changes:
+-added 4 splash screen lines 
+-squashed some bugs 
+-miscallenous changes for accessibility :)
+
+removals:
+-not technically a removal, but I will no longer add more comments. 
 
 Thanks for using!
