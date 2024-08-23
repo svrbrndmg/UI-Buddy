@@ -13,7 +13,7 @@ splash = [
    "stop hitting yourself", "you know I had to do it do 'em", "over and out", "schtupid", "buuurpp", "something about Minecraft", "ding, ding ding..."]
 
 print("Welcome to UI-Buddy v0.5, " + random.choice(splash) + "!")
-print("v0.4 is the... CODEBASE UPDATE!!")
+print("v0.5 is the... PROCRASTINATOR'S UPDATE!!")
 print("")
 print("What should the window name be? ")
 wndwnm = input()
