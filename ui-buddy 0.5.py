@@ -12,7 +12,7 @@ splash = [
    "I love being free and open source! OS 4evar", "insert witty line here", "the worst-programmed software this side of the... galaxy",
    "stop hitting yourself", "you know I had to do it do 'em", "over and out", "schtupid", "buuurpp", "something about Minecraft", "ding, ding ding..."]
 
-print("Welcome to UI-Buddy v0.4, " + random.choice(splash) + "!")
+print("Welcome to UI-Buddy v0.5, " + random.choice(splash) + "!")
 print("v0.4 is the... CODEBASE UPDATE!!")
 print("")
 print("What should the window name be? ")
