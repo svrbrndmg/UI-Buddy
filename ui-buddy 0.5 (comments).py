@@ -1,5 +1,6 @@
-#WARNING - dont use this version as your UI-Buddy version. due to comments and stuff, its likely broken. download the non-commented version instead.
-#this is just meant for understanding the code.
+#WARNING - don't use this version as your UI-Buddy version. It will take up SLIIIIGHTLY more space. 
+#Here at UI-Buddy Industries, we recommend the original version.
+#This is just meant for understanding the code.
 import tkinter as tk
 import time
 import random
