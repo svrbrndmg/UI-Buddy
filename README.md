@@ -14,6 +14,7 @@ but I hope you'll enjoy using UI-Buddy! Here's the tech support FAQ:
 Q: Why isn't the button showing up, or its window?
 A: Python hides the window sometimes for some reason, I've tried all that I can,
 but for now, just look behind your interpreter and you should see it.
+(P.S: we added top level code now! tho it only works sometimes so still you should check it.)
 Q: The custom background I chose doesn't fit the whole window. What do?
 A: If you want the image to cover the window, make the window size the same as the image size.
 Like, for example, a 640x480 image needs a 640x480 window.
